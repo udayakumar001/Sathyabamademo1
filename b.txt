@@ -1,1 +1,5 @@
 modify file in the directory
+Modified: You can be in 3 stages
+Modified: You changed the file
+Staged: you changed the file and prepared it ti be snapshotted.
+Committed: You took a snap shot of the entire project.
